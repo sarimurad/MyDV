@@ -1,0 +1,21 @@
+Dashboard
+
+Date: Sun Jun 21 18:47:49 2026
+
+User: st101
+
+Version: T-2022.06-SP2
+Command line: urg -full64 -dir coverage/test_local_basic -dir coverage/test_local_seqnum_variation -dir coverage/test_local_invalid -dir coverage/test_remote_single_frag -dir coverage/test_remote_multi_inorder -dir coverage/test_remote_out_of_order -dir coverage/test_remote_mismatched_seq -dir coverage/test_remote_missing_fragment -dir coverage/test_reserved_bits_invalid -dir coverage/test_zero_fields_invalid -dir coverage/test_payload_len_boundary -dir coverage/test_back_to_back_mixed -dir coverage/test_drop_cnt_wrap -dir coverage/test_reset_midpacket -dir coverage/test_backpressure_local -dir coverage/test_backpressure_remote -dir coverage/test_coverage_full -report coverage/merged_report -format both
+Number of tests: 17
+
+-------------------------------------------------------------------------------
+Total Coverage Summary 
+SCORE  GROUP  
+ 93.33  93.33 
+
+
+-------------------------------------------------------------------------------
+Total Groups Coverage Summary 
+SCORE  WEIGHT 
+ 93.33 1      
+

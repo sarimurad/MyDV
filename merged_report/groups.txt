@@ -1,0 +1,16 @@
+Testbench Group List
+
+Total Groups Coverage Summary 
+SCORE  WEIGHT 
+ 93.33 1      
+
+
+Total groups in report: 5
+-------------------------------------------------------------------------------
+SCORE  WEIGHT GOAL   AT LEAST PER INSTANCE AUTO BIN MAX PRINT MISSING COMMENT NAME                                  
+ 75.00 1      100    1        0            64           64                    bird_pkg::bird_coverage::cg_bp_cg     
+ 91.67 1      100    1        0            64           64                    bird_pkg::bird_coverage::cg_cfg_cg    
+100.00 1      100    1        0            64           64                    bird_pkg::bird_coverage::cg_reset_cg  
+100.00 1      100    1        0            64           64                    bird_pkg::bird_coverage::cg_remote_cg 
+100.00 1      100    1        0            64           64                    bird_pkg::bird_coverage::cg_drop_cg   
+
